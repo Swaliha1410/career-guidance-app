@@ -4,7 +4,9 @@ Professional UI with modular design and OOP principles
 """
 
 import streamlit as st
+
 from auth_manager import AuthManager
+
 from models import Student, TenthGradeAssessment, TwelfthGradeAssessment
 import plotly.graph_objects as go
 import plotly.express as px
