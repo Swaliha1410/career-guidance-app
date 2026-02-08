@@ -1,0 +1,455 @@
+{
+    "so123": {
+        "email": "uu@gmail.com",
+        "full_name": "swaliha",
+        "age": 19,
+        "academic_level": "12th",
+        "password_hash": "1636df4d028825cece0d0c5c8f4dbdc8180dfdf2025d79937822a0045de17d89",
+        "profile_completed": true,
+        "assessment_results": {
+            "engineering": 20,
+            "medical": 0,
+            "business": 5,
+            "law": 0,
+            "design": 4,
+            "social_sciences": 0
+        },
+        "recommendations": [
+            {
+                "field": "Engineering & Technology",
+                "confidence": "High",
+                "courses": [
+                    {
+                        "name": "B.Tech Computer Science & Engineering",
+                        "duration": "4 years",
+                        "trending_specializations": [
+                            "AI/ML",
+                            "Data Science",
+                            "Cyber Security",
+                            "Cloud Computing"
+                        ],
+                        "average_salary": "\u20b96-15 LPA (Fresher)",
+                        "top_salary": "\u20b940+ LPA (Top Companies)"
+                    },
+                    {
+                        "name": "B.Tech Electronics & Communication",
+                        "duration": "4 years",
+                        "trending_specializations": [
+                            "IoT",
+                            "VLSI Design",
+                            "5G Technology"
+                        ],
+                        "average_salary": "\u20b95-10 LPA",
+                        "top_salary": "\u20b925+ LPA"
+                    },
+                    {
+                        "name": "B.Tech Mechanical Engineering",
+                        "duration": "4 years",
+                        "trending_specializations": [
+                            "Robotics",
+                            "Automotive",
+                            "Renewable Energy"
+                        ],
+                        "average_salary": "\u20b94-8 LPA",
+                        "top_salary": "\u20b920+ LPA"
+                    }
+                ],
+                "top_colleges": [
+                    {
+                        "name": "Delhi University (113)",
+                        "location": "Ahmedabad, Gujarat",
+                        "ranking": 14,
+                        "cutoff": "94% | JEE Advanced",
+                        "fees": "\u20b9450,000/year",
+                        "placement": "Avg 13 LPA",
+                        "tier": "Tier 1",
+                        "naac_grade": "A+",
+                        "rating": 4.86
+                    },
+                    {
+                        "name": "Manipal Academy of Higher Education (55)",
+                        "location": "Dehradun, Uttarakhand",
+                        "ranking": 15,
+                        "cutoff": "91% | JEE Main",
+                        "fees": "\u20b9450,000/year",
+                        "placement": "Avg 14 LPA",
+                        "tier": "Tier 1",
+                        "naac_grade": "A++",
+                        "rating": 4.73
+                    },
+                    {
+                        "name": "Jawaharlal Nehru University (457)",
+                        "location": "Noida, Uttar Pradesh",
+                        "ranking": 20,
+                        "cutoff": "92% | JEE Advanced",
+                        "fees": "\u20b9600,000/year",
+                        "placement": "Avg 13 LPA",
+                        "tier": "Tier 1",
+                        "naac_grade": "A+",
+                        "rating": 4.78
+                    },
+                    {
+                        "name": "Indian Institute of Science Bengaluru (31)",
+                        "location": "Indore, Madhya Pradesh",
+                        "ranking": 40,
+                        "cutoff": "90% | JEE Advanced",
+                        "fees": "\u20b9600,000/year",
+                        "placement": "Avg 14 LPA",
+                        "tier": "Tier 1",
+                        "naac_grade": "A+",
+                        "rating": 4.87
+                    },
+                    {
+                        "name": "OP Jindal Global University (427)",
+                        "location": "Noida, Uttar Pradesh",
+                        "ranking": 48,
+                        "cutoff": "99% | JEE Advanced",
+                        "fees": "\u20b9650,000/year",
+                        "placement": "Avg 17 LPA",
+                        "tier": "Tier 1",
+                        "naac_grade": "A+",
+                        "rating": 4.78
+                    },
+                    {
+                        "name": "National Institute of Technology Trichy (307)",
+                        "location": "Lucknow, Uttar Pradesh",
+                        "ranking": 64,
+                        "cutoff": "86% | JEE Main",
+                        "fees": "\u20b9180,000/year",
+                        "placement": "Avg 6 LPA",
+                        "tier": "Tier 2",
+                        "naac_grade": "A",
+                        "rating": 3.65
+                    },
+                    {
+                        "name": "Indian Institute of Management Bangalore (22)",
+                        "location": "Coimbatore, Tamil Nadu",
+                        "ranking": 67,
+                        "cutoff": "83% | JEE Main",
+                        "fees": "\u20b9220,000/year",
+                        "placement": "Avg 10 LPA",
+                        "tier": "Tier 2",
+                        "naac_grade": "B++",
+                        "rating": 4.16
+                    },
+                    {
+                        "name": "Chandigarh University (412)",
+                        "location": "Hyderabad, Telangana",
+                        "ranking": 75,
+                        "cutoff": "83% | JEE Main",
+                        "fees": "\u20b9180,000/year",
+                        "placement": "Avg 8 LPA",
+                        "tier": "Tier 2",
+                        "naac_grade": "B++",
+                        "rating": 3.71
+                    },
+                    {
+                        "name": "Jawaharlal Nehru University (345)",
+                        "location": "Chennai, Tamil Nadu",
+                        "ranking": 87,
+                        "cutoff": "86% | JEE Advanced",
+                        "fees": "\u20b9250,000/year",
+                        "placement": "Avg 8 LPA",
+                        "tier": "Tier 2",
+                        "naac_grade": "B++",
+                        "rating": 4.03
+                    },
+                    {
+                        "name": "Chandigarh University (358)",
+                        "location": "Bengaluru, Karnataka",
+                        "ranking": 88,
+                        "cutoff": "86% | JEE Advanced",
+                        "fees": "\u20b9180,000/year",
+                        "placement": "Avg 6 LPA",
+                        "tier": "Tier 2",
+                        "naac_grade": "A",
+                        "rating": 3.56
+                    }
+                ],
+                "entrance_exams": [
+                    "JEE Main",
+                    "JEE Advanced",
+                    "BITSAT",
+                    "VITEEE",
+                    "State Engineering Exams"
+                ],
+                "career_opportunities": [
+                    "Software Engineer at Google, Microsoft, Amazon",
+                    "Data Scientist/ML Engineer",
+                    "Product Manager",
+                    "Startup Founder",
+                    "Research & Development"
+                ],
+                "growth_prospects": "Excellent - Tech industry growing at 15% annually"
+            }
+        ]
+    },
+    "abc123": {
+        "email": "you@gmail.com",
+        "full_name": "abc",
+        "age": 16,
+        "academic_level": "10th",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "profile_completed": true,
+        "assessment_results": {
+            "science": 21,
+            "commerce": 4,
+            "arts": 0
+        },
+        "recommendations": [
+            {
+                "stream": "Science",
+                "confidence": "High",
+                "subjects": [
+                    "Physics",
+                    "Chemistry",
+                    "Mathematics",
+                    "Biology (optional)",
+                    "English"
+                ],
+                "career_paths": [
+                    "Engineering (Computer Science, Mechanical, Electrical, Civil)",
+                    "Medical (MBBS, BDS, Nursing, Pharmacy)",
+                    "Research & Development",
+                    "Architecture",
+                    "Aviation"
+                ],
+                "colleges": [
+                    {
+                        "name": "Delhi University (235)",
+                        "location": "Coimbatore, Tamil Nadu",
+                        "type": "Urban",
+                        "tier": "Tier 1",
+                        "cutoff": "95%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9450,000/year",
+                        "hostel_fees": "\u20b990,000/year",
+                        "naac_grade": "A++",
+                        "nirf_rank": 3,
+                        "rating": 4.42,
+                        "placement": "Avg 17 LPA",
+                        "facilities": [
+                            "Cafeteria",
+                            "Advanced Labs",
+                            "Hostel",
+                            "Auditorium"
+                        ],
+                        "campus_size": "156 acres",
+                        "scholarships": "Government",
+                        "degree": "B.Sc",
+                        "specialization": "Applied"
+                    },
+                    {
+                        "name": "Amity University (59)",
+                        "location": "Coimbatore, Tamil Nadu",
+                        "type": "Semi-Urban",
+                        "tier": "Tier 1",
+                        "cutoff": "95%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9500,000/year",
+                        "hostel_fees": "\u20b9120,000/year",
+                        "naac_grade": "A++",
+                        "nirf_rank": 12,
+                        "rating": 4.49,
+                        "placement": "Avg 12 LPA",
+                        "facilities": [
+                            "Sports Complex",
+                            "Innovation Lab",
+                            "Gym",
+                            "WiFi Campus",
+                            "Research Center",
+                            "Advanced Labs",
+                            "Library"
+                        ],
+                        "campus_size": "441 acres",
+                        "scholarships": "N/A",
+                        "degree": "B.Sc",
+                        "specialization": "Research"
+                    },
+                    {
+                        "name": "Indian Institute of Management Ahmedabad (96)",
+                        "location": "Hyderabad, Telangana",
+                        "type": "Rural",
+                        "tier": "Tier 1",
+                        "cutoff": "98%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9450,000/year",
+                        "hostel_fees": "\u20b9100,000/year",
+                        "naac_grade": "A+",
+                        "nirf_rank": 13,
+                        "rating": 4.31,
+                        "placement": "Avg 20 LPA",
+                        "facilities": [
+                            "WiFi Campus",
+                            "Advanced Labs",
+                            "Library",
+                            "Sports Complex",
+                            "Hostel",
+                            "Cafeteria"
+                        ],
+                        "campus_size": "248 acres",
+                        "scholarships": "Merit-based",
+                        "degree": "B.Sc",
+                        "specialization": "General"
+                    },
+                    {
+                        "name": "Amity University (478)",
+                        "location": "Jaipur, Rajasthan",
+                        "type": "Rural",
+                        "tier": "Tier 1",
+                        "cutoff": "94%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9550,000/year",
+                        "hostel_fees": "\u20b9120,000/year",
+                        "naac_grade": "A+",
+                        "nirf_rank": 14,
+                        "rating": 4.81,
+                        "placement": "Avg 16 LPA",
+                        "facilities": [
+                            "Innovation Lab",
+                            "Research Center",
+                            "Auditorium",
+                            "Advanced Labs",
+                            "Hostel"
+                        ],
+                        "campus_size": "567 acres",
+                        "scholarships": "N/A",
+                        "degree": "B.Sc",
+                        "specialization": "Research"
+                    },
+                    {
+                        "name": "Indian Institute of Management Ahmedabad (92)",
+                        "location": "Kochi, Kerala",
+                        "type": "Rural",
+                        "tier": "Tier 1",
+                        "cutoff": "98%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9650,000/year",
+                        "hostel_fees": "\u20b980,000/year",
+                        "naac_grade": "A++",
+                        "nirf_rank": 14,
+                        "rating": 4.6,
+                        "placement": "Avg 20 LPA",
+                        "facilities": [
+                            "Advanced Labs",
+                            "Sports Complex",
+                            "Medical Center",
+                            "Auditorium",
+                            "Hostel"
+                        ],
+                        "campus_size": "547 acres",
+                        "scholarships": "Government",
+                        "degree": "B.Sc",
+                        "specialization": "Research"
+                    },
+                    {
+                        "name": "Indian Institute of Technology Madras (260)",
+                        "location": "Hyderabad, Telangana",
+                        "type": "Rural",
+                        "tier": "Tier 1",
+                        "cutoff": "94%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9450,000/year",
+                        "hostel_fees": "\u20b980,000/year",
+                        "naac_grade": "A+",
+                        "nirf_rank": 20,
+                        "rating": 4.67,
+                        "placement": "Avg 12 LPA",
+                        "facilities": [
+                            "Sports Complex",
+                            "Gym",
+                            "Cafeteria",
+                            "Innovation Lab"
+                        ],
+                        "campus_size": "567 acres",
+                        "scholarships": "Government",
+                        "degree": "B.Sc",
+                        "specialization": "Applied"
+                    },
+                    {
+                        "name": "Lovely Professional University (455)",
+                        "location": "Pune, Maharashtra",
+                        "type": "Semi-Urban",
+                        "tier": "Tier 1",
+                        "cutoff": "94%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9450,000/year",
+                        "hostel_fees": "\u20b980,000/year",
+                        "naac_grade": "A+",
+                        "nirf_rank": 26,
+                        "rating": 4.89,
+                        "placement": "Avg 15 LPA",
+                        "facilities": [
+                            "Auditorium",
+                            "Hostel",
+                            "Innovation Lab",
+                            "Advanced Labs",
+                            "Research Center"
+                        ],
+                        "campus_size": "444 acres",
+                        "scholarships": "N/A",
+                        "degree": "B.Sc",
+                        "specialization": "Applied"
+                    },
+                    {
+                        "name": "Jamia Millia Islamia (497)",
+                        "location": "Hyderabad, Telangana",
+                        "type": "Semi-Urban",
+                        "tier": "Tier 1",
+                        "cutoff": "95%",
+                        "entrance_exam": "CUET",
+                        "fees": "\u20b9500,000/year",
+                        "hostel_fees": "\u20b9120,000/year",
+                        "naac_grade": "A++",
+                        "nirf_rank": 27,
+                        "rating": 4.64,
+                        "placement": "Avg 14 LPA",
+                        "facilities": [
+                            "Sports Complex",
+                            "Research Center",
+                            "Library",
+                            "Gym"
+                        ],
+                        "campus_size": "412 acres",
+                        "scholarships": "N/A",
+                        "degree": "B.Sc",
+                        "specialization": "General"
+                    }
+                ],
+                "entrance_exams": [
+                    "JEE Main",
+                    "JEE Advanced",
+                    "NEET",
+                    "BITSAT",
+                    "State Engineering Exams"
+                ],
+                "skills_needed": [
+                    "Analytical thinking",
+                    "Problem-solving",
+                    "Mathematical aptitude",
+                    "Scientific curiosity"
+                ]
+            }
+        ]
+    },
+    "skk123": {
+        "email": "salushaikh1410@gmail.com",
+        "full_name": "swaliha",
+        "age": 16,
+        "academic_level": "12th",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "profile_completed": false,
+        "assessment_results": {},
+        "recommendations": []
+    },
+    "swaliha13": {
+        "email": "dd@gmail.com",
+        "full_name": "swaliha",
+        "age": 16,
+        "academic_level": "10th",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "profile_completed": false,
+        "assessment_results": {},
+        "recommendations": []
+    }
+}
