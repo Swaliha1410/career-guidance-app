@@ -7,7 +7,7 @@ import json
 import os
 from typing import Optional, Dict
 from models import User, Student
-from validators import validate_signup, validate_login
+from input_validators import validate_signup, validate_login
 
 
 class AuthManager:
